@@ -2,7 +2,7 @@
 * File name   : btnAndLed.c
 * Description : Toggle a led by button.
 * E-mail      : xiaojing.zh@gmail.com
-* Author      : JXeon
+* Author      : Xeon
 * Date        : 2016/02/20
 */
 #include <wiringPi.h>
